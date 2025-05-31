@@ -27,7 +27,7 @@ Composer (if using any dependencies)
 🛠️ Installation & Setup
 Clone the repository
 
-git clone https://github.com/BhuvaneshGoud/ecommerce.git
+git clone https://github.com/BhuvaneshGoud/Ecommerce-Website.git
 
 Move project to your server directory
 
